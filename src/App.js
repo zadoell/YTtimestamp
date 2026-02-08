@@ -11,7 +11,7 @@ function App() {
       <Helmet>
         <meta
           name="description"
-          content="TubeStamp is a free online tool that allows you to easily create timestamp links for YouTube videos. Share specific moments from videos with your friends and audience. Suttlebang"
+          content="TubeStamp is a free online tool that allows you to easily create timestamp links for YouTube videos. Share specific moments from videos with your friends and audience. SuttlebangSuttebang"
         />
         <meta
           name="keywords"
